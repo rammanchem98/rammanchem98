@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Ram 👋
+<img src="banner.png" alt="Ram Manchem, data scientist and ML engineer" width="100%" />
 
-**Data scientist and ML engineer in London, working across MLOps and agentic AI**
+**Hi, I'm Ram 👋 I work across MLOps and agentic AI**
 
 MSc Advanced Computer Science · Two years of 24x7 production support behind me
 
