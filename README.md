@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="profile_round.png" width="130" height="130" alt="Ram Manchem" />
-
 # Hi, I'm Ram 👋
 
 **Data scientist and ML engineer in London, working across MLOps and agentic AI**
